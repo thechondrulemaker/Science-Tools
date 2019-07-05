@@ -1,4 +1,4 @@
-README for Redox Buffer Code
+README for ReBuff
 
 By Alexandra M. Perez
 alexandra.perez.chondrules@gmail.com
